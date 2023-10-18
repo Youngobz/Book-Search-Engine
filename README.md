@@ -6,6 +6,10 @@ Heroku deployment URL: https://young-obz-book-search-engine-5255b5137a5f.herokua
 
 *After spending 5 hours debugging this application, including trying numerous mongodb atlas clusters, I was unable to come to the reason as to why MongoServerError: bad auth : authentication failed error was occuring. I tested and retested to ensure credentials were correct and nothing seemed to resolve this issue*
 
+
+https://github.com/Youngobz/Book-Search-Engine/assets/133522178/42b6a2d2-3430-4909-aedb-0bd8cc11c8f0
+
+
 ## 🌟 Features
 
 - **User Authentication**: Secure user registration and login functionality.
