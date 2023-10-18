@@ -2,6 +2,10 @@
 
 A MERN (MongoDB, Express.js, React, Node.js) stack application that allows users to search for books and save their favorites. The application integrates with the Google Books API to fetch book details.
 
+Heroku deployment URL: https://young-obz-book-search-engine-5255b5137a5f.herokuapp.com/ 
+
+*After spending 5 hours debugging this application, including trying numerous mongodb atlas clusters, I was unable to come to the reason as to why MongoServerError: bad auth : authentication failed error was occuring. I tested and retested to ensure credentials were correct and nothing seemed to resolve this issue*
+
 ## 🌟 Features
 
 - **User Authentication**: Secure user registration and login functionality.
